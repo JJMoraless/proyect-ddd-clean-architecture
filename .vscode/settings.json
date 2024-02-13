@@ -1,0 +1,18 @@
+{
+  "exportall.config.folderListener": [
+    "/src/domain/dtos/todos",
+    "/src/domain/dtos",
+
+    "/src/domain/use-cases/todo",
+    "/src/domain/use-cases",
+
+    "/src/domain/dataSources",
+    "/src/domain/entities",
+    "/src/domain/repositories",
+    "/src/domain",
+
+    "/src/infrastructure/datasource",
+    "/src/infrastructure/repository",
+    "/src/infrastructure"
+  ]
+}
